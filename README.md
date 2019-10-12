@@ -5,4 +5,4 @@ In this app we are going to explore event object of s3. The event object contain
 
 The context object contains information about the invocation, function and invocation environment.
 
-
+Callback is a function that you can call in non-async functions to send a response. It takes two args an error and a response.
